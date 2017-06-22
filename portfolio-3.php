@@ -45,7 +45,7 @@
                         </ul>
                     </div>
 
-                    <div class="portfolio col-3 gutter portfolio-with-title">
+                    <div class="portfolio col-4 gutter portfolio-with-title">
                         <div class="portfolio-item item-one item-two">
                             <div class="thumb">
                                 <img src="images/portfolio/19.jpg" alt="">
