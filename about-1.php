@@ -27,23 +27,14 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="cs-about-two-col">
-                          <!-- <img src="images/others/5.jpg" alt="">  --> 
+                          <h3 style="border-bottom: 1px solid black;color: #DEB887;">MISSION AND VISION</h3>
+                          <h3>ABOUT FOUNDER</h3>
                         </div>
                     </div>
                     <div class="col-md-9">
                         <div class="row">
-                            <div class="col-md-3 col-sm-3 col-xs-3">
-                                <!-- <div class="cs-about-two-col"> -->
-                                    <!-- tabs -->
-                                    <!-- <ul class="tabs" role="tablist">
-                                        <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><div class="cs-tab-btnimg"><img src="images/service/5.jpg" alt=""></div></a></li>
-                                        <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><div class="cs-tab-btnimg"><img src="images/service/6.jpg" alt=""></div></a></li>
-                                        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><div class="cs-tab-btnimg"><img src="images/service/7.jpg" alt=""></div></a></li>
-                                    </ul> -->
-                                    <!-- Tab panes -->
-                                <!-- </div> -->
-                            </div>
-                            <div class="col-md-9 col-sm-9 col-xs-9">
+                            
+                            <div class="col-md-9 col-sm-9 col-sm-offset-2 col-xs-9">
                                 <div class="cs-about-two-col">
                                     <div class="tab-content">
                                         <!-- tab one -->

@@ -2,35 +2,56 @@
     <footer class="cs-main-footer">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-3 col-sm-3">
+                <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="cs-footer-col">
-                        <img src="images/logo/logo-2.png" alt="images/logo/logo-2.png">
+                        <h2 style="color: #DEB887;"> SARA GLOBAL</h2>
+                        <p style="font-size: 12px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud cillum dolore eu fugiat nulla pariatur. </p><br/>
+
+                        <p style="font-size: 12px;">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-5">
-                    <div class="cs-footer-col clearfix">
-                        <ul>
-                            <li><a href="#">home</a></li>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">services</a></li>
-                            <li><a href="#">projet</a></li>
-                            <li><a href="#">blog</a></li>
-                            <li><a href="#">contact</a></li>
-                        </ul>
+                <div class="col-lg-4 col-md-4 col-sm-4">
+                    <div class="cs-footer-col centered">
+                        <h2 style="color: #DEB887;"> QUICK LINKS</h2>
+                        <a href="#">HOME</a><hr style="padding: 5px;
+    margin: 0px; color:#000000;">
+                        <a href="#">ABOUT US</a><hr style="padding: 5px;
+    margin: 0px; color:#000000;">
+                        <a href="#">SERVICES</a><hrstyle="padding: 5px;
+    margin: 0px; color:#000000;">
+                        <a href="#">PORTFOLIO</a><hr style="padding: 5px;
+    margin: 0px; color:#000000;">
+                        <a href="#">CLIENTS</a><hr style="padding: 5px;
+    margin: 0px; color:#000000;">
+                        <a href="#">CONTACT US</a><hr style="padding: 5px;
+    margin: 0px; color:#000000;">
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-3 col-sm-4">
+                <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="cs-footer-col">
-                        <form class="input-group">
-                            <div class="form-group">
-                              <input class="form-control" type="email" placeholder="Enter Your Mail">
-                            </div>
-                            <span class="input-group-btn">
-                              <button class="btn btn-default cs-sent-btn" type="submit">
-                                <span class="icon icon-Plaine"></span>
-                              </button>
-                            </span>
-                        </form>
+                        <h2 style="color: #DEB887;">CONTACT US</h2>
+                        <p style="font-size: 12px;">22, Lorem Ipsum, Kagiso <br/>
+                        Renada, Hong Kong <br/>
+                        002233<hr style="padding: 5px;
+    margin: 0px; color:#000000;">
+
+                        <p style="font-weight: bold;font-size: 12px;color: #DEB887;">Phone<br/>
+                        <p>+00 35648 59874</p>    
+                        </p>
+                        <hr style="padding: 5px;
+    margin: 0px; color:#000000;">
+
+                        <p style="font-weight: bold;font-size: 12px;color: #DEB887;">Email<br/>
+                        <p>info@saraglobal.com</p>    
+                        </p>
+                        <hr style="padding: 5px;
+    margin: 0px; color:#000000;">
+
+                        <p style="font-weight: bold;font-size: 12px;color: #DEB887;">Web<br/>
+                        <p>www.saraglobal.com</p>    
+                        </p>
+                        <hr style="padding: 5px;
+    margin: 0px; color:#000000;">
                     </div>
                 </div>
             </div>
@@ -40,22 +61,12 @@
 
 
     <!-- copyright start-->
-    <section class="cs-copyright-area">
+    <section class="cs-copyright-area" style="background-color: #000000";>
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-xs-6 cs-full-wd480 cs-res-text-center480">
                     <div class="cs-copyright-col">
-                        <h5>© Copyright 2016 - Designer By <a href="https://themeforest.net/item/findarc-interior-design-architecture-psd-template/17957517?s_rank=1" target="_blank">themegrid.</a></h5>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-xs-6 cs-full-wd480">
-                    <div class="cs-copyright-col text-right cs-res-text-center480">
-                        <div class="cs-socile-group">
-                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
-                            <a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a>
-                        </div>
+                        <h5>Copyright ©  2017<a href="https://themeforest.net/item/findarc-interior-design-architecture-psd-template/17957517?s_rank=1" target="_blank"> Sara Global</a></h5>
                     </div>
                 </div>
             </div>

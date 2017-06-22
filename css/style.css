@@ -3695,6 +3695,11 @@ blockquote {
     margin-left: 50px;
 }
 
+a{
+    color: #000000;
+    /*font-weight: bold;*/
+}
+
 /*
 ====================================================================
     Theme Magin And Padding css start
