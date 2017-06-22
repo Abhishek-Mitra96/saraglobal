@@ -3,7 +3,6 @@
 ?>
 
 
-
     <!-- page-heading start-->
     <section class="cs-page-heading-area" style="background-image: url(images/bg/4.jpg);">
         <div class="container">
@@ -12,7 +11,7 @@
                     <div class="col-sm-12">
                         <div class="cs-page-linkbox animated fadeInLeft slow">
                             <h3>About Us</h3>
-                            <p><a href="index-mp-layout-1.html">Home</a> / <a href="about-2.html">About Us</a></p>
+                            <p><a href="index-mp-layout-1.html">Home</a> > <a href="about-1.html">About Us</a></p>
                         </div>
                     </div>
                 </div>
@@ -20,35 +19,38 @@
         </div>
     </section>
     <!-- page-heading end -->
-    
 
-    
-   
-    <!-- about start -->
-    <section class="cs-about-area">
-        <div class="section-title">
-          <div class="cs-ver-section-title cs-out-1300">
-                <h1>about</h1>
-                <h2>who we are</h2>
-                <div class="cs-section-bdr"></div> 
-            </div>  
-        </div>
+    <!-- about-two start-->
+    <section class="cs-about-two">
         <div class="container">
             <div class="section-wrap">
-                <div class="row animatedParent animateOnce">
-                    <div class="col-md-6 col-sm-12">
-                        <div class="cs-about-box">
-                            <img src="images/others/icon-1.png" alt="">
-                            <h2>welcome to <span>FIND. ACTh</span></h2>
-                            <p>Tincidunt suscipit neque, in ultrices nunc iaculis et. Cras faucibus sed sem et sodales. Suspendisse eu accumsan dolor. Nunc tempor purus ut porttitor sagittis. Nunc neque diam, cursus sed dignissim in, iaculis at odio. Cras mattis, mi ut sodales tincidunt, augue lorem feugiat erat, id accumsan</p>
-                            <a href="#">View More <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span> </a>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="cs-about-two-col">
+                          <h3>MISSION AND VISION</h3>
+                          <h3 style="border-bottom: 1px solid black;color: #DEB887;">ABOUT FOUNDER</h3>
                         </div>
                     </div>
-                    <div class="col-md-6 col-sm-12">
-                        <div class="cs-about-video animated fadeInRightShort slow clearfix">
-                            <img src="images/others/1.jpg" alt="">
-                            <div class="cs-play-icone">
-                                <a href="https://www.youtube.com/watch?v=iuc9R-3lge8" class="lightbox-image" title="Click Here"><span class="icon icon-Play"></span></a>
+                    <div class="col-md-9">
+                        <div class="row">
+                            
+                            <div class="col-md-9 col-sm-9 col-sm-offset-2 col-xs-9">
+                                <div class="cs-about-two-col">
+                                    <div class="tab-content">
+                                        <!-- tab one -->
+                                        <div role="tabpanel" class="tab-pane fade in active" id="home">
+                                            <p style="font-weight: bold;">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.</p>
+                                            <p style="font-weight: bold;">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
+                                        </div>
+                                        <!-- tab three -->
+                                        <div role="tabpanel" class="tab-pane fade" id="messages">
+                                            <h2>Eget facilisis lacus, <span>non mattis augue</span> </h2>
+                                            <h6>Curabitur vulputate ligula non vulputate porttitor. Maecenas et pellentesque neque, ut semper magna.</h6>
+                                            <p>Sed eget tellus elit. Aenean quis mollis nulla. Nunc risus orci, fringilla eget urna eget, dignissim ultrices mi. Morbi sodales vehicula felis sed maximus. Curabitur nec nibh quam. Sed rutrum arcu tortor, quis volutpat nibh interdum in. Donec quis lorem dui. Nunc eleifend urna maximus, sagittis sapien non, rutrum velit.</p>
+                                            <a class="btn btn-default cs-my-btn-brown" type="submit">learn more</a>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -56,66 +58,104 @@
             </div>
         </div>
     </section>
-    <!-- about end -->
+    <!-- about-two end -->
 
-    <!-- counter start -->
-    <section class="cs-counter-area cs-counter-two cs-overlay-black">
+    
+
+    <!-- buy start-->
+    <section class="cs-buy-area cs-overlay-black" style="background-color: #DEB887;">
         <div class="container">
             <div class="section-wrap">
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 cs-full-wd480">
-                        <div class="cs-counter-col text-center">   
-                            <span class="count">16</span>
-                            <p>Years</p>
+                    <div class="col-md-10 col-sm-12">
+                        <div class="cs-buy-col cs-text-center991">
+                            <h2>DOWNLOAD OUR BROCHURE TO SEE MORE</h2>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 cs-full-wd480">
-                        <div class="cs-counter-col text-center">   
-                            <span class="count">73</span>
-                            <p>project</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 cs-full-wd480">
-                        <div class="cs-counter-col text-center">   
-                            <span class="count">48</span>
-                            <p>members</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 cs-full-wd480">
-                        <div class="cs-counter-col text-center">   
-                            <span class="count">02</span>
-                            <p>awards</p>
+                    <div class="col-md-2 col-sm-12">
+                        <div class="cs-buy-col text-right cs-text-center991">
+                            <a class="btn btn-default cs-my-btn-b" href="#" role="button">DOWNLOAD</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- counter end -->
+    <!-- buy end -->
 
-
-    <!-- description start-->
-    <section class="cs-description-area">
+    <!-- team start-->
+    <section class="cs-team-area">
+        <div class="section-title">
+            <div class="cs-ver-section-title cs-hor-section-title">
+                <h1>our team</h1>
+                <h2>our great team</h2>
+                <div class="cs-section-bdr"></div> 
+            </div>
+        </div>
         <div class="container">
             <div class="section-wrap">
                 <div class="row animatedParent animateOnce">
-                    <div class="col-md-4 col-sm-12">
-                        <div class="cs-description-col animated fadeInLeftShort slow">
-                            <img src="images/others/3.jpg" alt="images/others/3.jpg">
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 cs-full-wd480">
+                        <div class="cs-team-col animated fadeInLeftShort slow delay-250">
+                            <ul class="cs-team-social clearfix mb10">
+                                <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <img src="images/team/1.jpg" alt="">
+                            <h5>Ben Afflick</h5>
+                            <span>interior designer</span>
+                            <div class="cs-over-box"></div>
                         </div>
                     </div>
-                    <div class="col-md-8 col-sm-12">
-                        <div class="cs-description-col cs-text-center991 animated fadeInRightShort slow">
-                            <h2>Architecture is a visual art, and the buildings <span>speak for themselves.</span></h2>
-                            <p class="mb20">Donec pulvinar tincidunt felis a consequat. Nullam in est sem. Vivamus finibus volutpat nunc, ut viverra erat pharetra vel. In sit amet malesuada augue. Duis iaculis auctor nibh vitae molestie. Donec dictum bibendum faucibus. Maecenas lacinia, lorem vitae euismod scelerisque, lectus tortor accumsan ante, sed feugiat ex nisi sit amet arcu. Sed metus lorem, porttitor eu erat non, lobortis efficitur quam. Proin vestibulum mi vel</p>
-                            <p>massa aliquet aliquet. Suspendisse dolor tortor, finibus sed libero ac, viverra facilisis odio. Quisque orci arcu, elementum quis est sit amet, molestie convallis tellus. Curabitur neque lacus, tempor eu enim sed, condimentum cursus odio. Vestibulum eleifend eros non sem rutrum, vitae</p>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 cs-full-wd480">
+                        <div class="cs-team-col animated fadeInLeftShort slow delay-500">
+                            <ul class="cs-team-social clearfix mb10">
+                                <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <img src="images/team/2.jpg" alt="">
+                            <h5>david miller</h5>
+                            <span>architect & ceo</span>
+                            <div class="cs-over-box"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 cs-full-wd480">
+                        <div class="cs-team-col animated fadeInLeftShort slow delay-750">
+                            <ul class="cs-team-social clearfix mb10">
+                                <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <img src="images/team/3.jpg" alt="">
+                            <h5>henry cavill</h5>
+                            <span>exterior designer</span>
+                            <div class="cs-over-box"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 cs-full-wd480">
+                        <div class="cs-team-col animated fadeInLeftShort slow delay-1000">
+                            <ul class="cs-team-social clearfix mb10">
+                                <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <img src="images/team/4.jpg" alt="">
+                            <h5>sancho pansa</h5>
+                            <span>interior designer</span>
+                            <div class="cs-over-box"></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- description end -->
+    <!-- team end -->
 
     <!-- testimonial start-->
     <section class="cs-testimonial-area cs-overlay-black">
@@ -193,74 +233,51 @@
     </section>
     <!-- testimonial end -->
 
+    
 
-    <!-- blog start-->
-    <section class="cs-blog-area">
-        <div class="section-title">
-            <div class="cs-ver-section-title cs-hor-section-title">
-                <h1>our blog</h1>
-                <h2>news and blog</h2>
-                <div class="cs-section-bdr"></div> 
-            </div>
-        </div>
+
+    <!-- clients start-->
+    <section class="cs-clients-area">
         <div class="container">
             <div class="section-wrap">
-                <div class="row animatedParent animateOnce">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 cs-full-wd480">
-                        <div class="cs-blog-col animated fadeInLeftShort slow delay-250">
-                            <div class="cs-blog-img">
-                                <img src="images/blog/1.jpg" alt="images/blog/1.jpg">
-                                <div class="cs-bg-path"></div>
-                                <div class="cs-link-box">
-                                    <a href="https://www.youtube.com/watch?v=iuc9R-3lge8" class="lightbox-image" title="Click Here"><span class="icon icon-Video"></span></a>
-                                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="clients-carousel">
+                            <div class="item">
+                                <img src="images/clients/1.png" alt="images/clients/1.png">
                             </div>
-                            <div class="cs-blog-content clearfix">
-                                <h4><a href="blog-grid.html">Eget vehicula lectus</a></h4>
-                                <p>by Find.Arc , 1 Hour ago</p> 
-                                <a class="btn btn-default cs-my-btn-white pull-right mt20" href="#">Read More</a>
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 cs-full-wd480">
-                        <div class="cs-blog-col animated fadeInLeftShort slow delay-500">
-                            <div class="cs-blog-img">
-                                <img src="images/blog/2.jpg" alt="images/blog/2.jpg">
-                                <div class="cs-bg-path"></div>
-                                <div class="cs-link-box">
-                                    <a href="images/blog/2.jpg" class="lightbox-image" title="Click Here"><span class="icon icon-Web"></span></a>
-                                </div>
+                            <div class="item">
+                                <img src="images/clients/2.png" alt="images/clients/2.png">
                             </div>
-                            <div class="cs-blog-content clearfix">
-                                <h4><a href="blog-grid.html">Eget vehicula lectus</a></h4>
-                                <p>by Find.Arc , 1 Hour ago</p> 
-                                <a class="btn btn-default cs-my-btn-white pull-right mt20" href="#">Read More</a>
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 cs-full-wd480">
-                        <div class="cs-blog-col animated fadeInLeftShort slow delay-750">
-                            <div class="cs-blog-img">
-                                <img src="images/blog/3.jpg" alt="images/blog/3.jpg">
-                                <div class="cs-bg-path"></div>
-                                <div class="cs-link-box">
-                                    <a href="images/blog/3.jpg" class="lightbox-image" title="Click Here"><span class="icon icon-Cassette"></span></a>
-                                </div>
+                            <div class="item">
+                                <img src="images/clients/3.png" alt="images/clients/3.png">
                             </div>
-                            <div class="cs-blog-content clearfix">
-                                <h4><a href="blog-grid.html">Eget vehicula lectus</a></h4>
-                                <p>by Find.Arc , 1 Hour ago</p> 
-                                <a class="btn btn-default cs-my-btn-white pull-right mt20" href="#">Read More</a>
-                            </div> 
+                            <div class="item">
+                                <img src="images/clients/4.png" alt="images/clients/4.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/1.png" alt="images/clients/1.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/2.png" alt="images/clients/2.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/3.png" alt="images/clients/3.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/4.png" alt="images/clients/4.png">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- blog end -->
+    <!-- clients end -->
 
-    
+
+
+
     <?php
         require_once 'footer.php';
     ?>
@@ -281,8 +298,7 @@
     <script src="js/validate.js"></script>
     <script src="js/custom.js"></script>
 
-
 </body>
 
-<!-- Mirrored from themeinnovation.com/demo2/html/find.arc/about-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Jun 2017 13:20:21 GMT -->
+<!-- Mirrored from themeinnovation.com/demo2/html/find.arc/about-1.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Jun 2017 13:20:09 GMT -->
 </html>

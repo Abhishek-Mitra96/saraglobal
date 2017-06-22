@@ -11,7 +11,7 @@
                     <div class="col-sm-12">
                         <div class="cs-page-linkbox animated fadeInLeft slow">
                             <h3>About Us</h3>
-                            <p><a href="index-mp-layout-1.html">Home</a> / <a href="about-1.html">About Us</a></p>
+                            <p><a href="index-mp-layout-1.html">Home</a> > <a href="about-1.html">About Us</a></p>
                         </div>
                     </div>
                 </div>
@@ -25,40 +25,22 @@
         <div class="container">
             <div class="section-wrap">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-3">
                         <div class="cs-about-two-col">
-                          <img src="images/others/5.jpg" alt="">  
+                          <h3 style="border-bottom: 1px solid black;color: #DEB887;">MISSION AND VISION</h3>
+                          <h3>ABOUT FOUNDER</h3>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-9">
                         <div class="row">
-                            <div class="col-md-3 col-sm-3 col-xs-3">
-                                <div class="cs-about-two-col">
-                                    <!-- tabs -->
-                                    <ul class="tabs" role="tablist">
-                                        <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><div class="cs-tab-btnimg"><img src="images/service/5.jpg" alt=""></div></a></li>
-                                        <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><div class="cs-tab-btnimg"><img src="images/service/6.jpg" alt=""></div></a></li>
-                                        <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><div class="cs-tab-btnimg"><img src="images/service/7.jpg" alt=""></div></a></li>
-                                    </ul>
-                                    <!-- Tab panes -->
-                                </div>
-                            </div>
-                            <div class="col-md-9 col-sm-9 col-xs-9">
+                            
+                            <div class="col-md-9 col-sm-9 col-sm-offset-2 col-xs-9">
                                 <div class="cs-about-two-col">
                                     <div class="tab-content">
                                         <!-- tab one -->
                                         <div role="tabpanel" class="tab-pane fade in active" id="home">
-                                            <h2>Sed at facilisis lacus, <span>non mattis augue</span> </h2>
-                                            <h6>Curabitur vulputate ligula non vulputate porttitor. Maecenas et pellentesque neque, ut semper magna.</h6>
-                                            <p>Sed eget tellus elit. Aenean quis mollis nulla. Nunc risus orci, fringilla eget urna eget, dignissim ultrices mi. Morbi sodales vehicula felis sed maximus. Curabitur nec nibh quam. Sed rutrum arcu tortor, quis volutpat nibh interdum in. Donec quis lorem dui. Nunc eleifend urna maximus, sagittis sapien non, rutrum velit.</p>
-                                            <a class="btn btn-default cs-my-btn-brown" type="submit">learn more</a>
-                                        </div>
-                                        <!-- tab two -->
-                                        <div role="tabpanel" class="tab-pane fade" id="profile">
-                                            <h2>Facilisis lacus, <span>non mattis augue</span> </h2>
-                                            <h6>Curabitur vulputate ligula non vulputate porttitor. Maecenas et pellentesque neque, ut semper magna.</h6>
-                                            <p>Sed eget tellus elit. Aenean quis mollis nulla. Nunc risus orci, fringilla eget urna eget, dignissim ultrices mi. Morbi sodales vehicula felis sed maximus. Curabitur nec nibh quam. Sed rutrum arcu tortor, quis volutpat nibh interdum in. Donec quis lorem dui. Nunc eleifend urna maximus, sagittis sapien non, rutrum velit.</p>
-                                            <a class="btn btn-default cs-my-btn-brown" type="submit">learn more</a>
+                                            <p style="font-weight: bold;">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.</p>
+                                            <p style="font-weight: bold;">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
                                         </div>
                                         <!-- tab three -->
                                         <div role="tabpanel" class="tab-pane fade" id="messages">
@@ -78,54 +60,21 @@
     </section>
     <!-- about-two end -->
 
-    <!-- features start-->
-    <section class="cs-more-service-area">
-        <div class="container">
-            <div class="section-wrap">
-                <div class="row">
-                    <div class="col-lg-4 col-sm-4 col-xs-12">
-                        <div class="cs-more-service-col">
-                            <h2>01</h2>
-                            <i class="flaticon-museum"></i>
-                            <h4>Master Plans</h4>
-                            <p>Donec at bibendum arcu, at ornare risus. Praesent vel nunc id lorem efficitur dapibus. </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-4 col-xs-12">
-                        <div class="cs-more-service-col">
-                            <h2>02</h2>
-                            <i class="flaticon-museum"></i>
-                            <h4>Architecture</h4>
-                            <p>Donec at bibendum arcu, at ornare risus. Praesent vel nunc id lorem efficitur dapibus. </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-4 col-xs-12">
-                        <div class="cs-more-service-col">
-                            <h2>03</h2>
-                            <i class="flaticon-museum"></i>
-                            <h4>Construction</h4>
-                            <p>Donec at bibendum arcu, at ornare risus. Praesent vel nunc id lorem efficitur dapibus. </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- features end -->
+    
 
     <!-- buy start-->
-    <section class="cs-buy-area cs-overlay-black" style="background-image: url(images/bg/3.jpg);">
+    <section class="cs-buy-area cs-overlay-black" style="background-color: #DEB887;">
         <div class="container">
             <div class="section-wrap">
                 <div class="row">
-                    <div class="col-md-8 col-sm-12">
+                    <div class="col-md-10 col-sm-12">
                         <div class="cs-buy-col cs-text-center991">
-                            <h2>buy this theme now! <span>simple & clean</span></h2>
+                            <h2>DOWNLOAD OUR BROCHURE TO SEE MORE</h2>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-12">
+                    <div class="col-md-2 col-sm-12">
                         <div class="cs-buy-col text-right cs-text-center991">
-                            <a class="btn btn-default cs-my-btn-brown" href="#" role="button">Order now</a>
+                            <a class="btn btn-default cs-my-btn-b" href="#" role="button">DOWNLOAD</a>
                         </div>
                     </div>
                 </div>
@@ -284,71 +233,7 @@
     </section>
     <!-- testimonial end -->
 
-    <!-- blog start-->
-    <section class="cs-blog-area">
-        <div class="section-title">
-            <div class="cs-ver-section-title cs-hor-section-title">
-                <h1>our blog</h1>
-                <h2>news and blog</h2>
-                <div class="cs-section-bdr"></div> 
-            </div>
-        </div>
-        <div class="container">
-            <div class="section-wrap">
-                <div class="row animatedParent animateOnce">
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 cs-full-wd480">
-                        <div class="cs-blog-col animated fadeInLeftShort slow delay-250">
-                            <div class="cs-blog-img">
-                                <img src="images/blog/1.jpg" alt="images/blog/1.jpg">
-                                <div class="cs-bg-path"></div>
-                                <div class="cs-link-box">
-                                    <a href="https://www.youtube.com/watch?v=iuc9R-3lge8" class="lightbox-image" title="Click Here"><span class="icon icon-Video"></span></a>
-                                </div>
-                            </div>
-                            <div class="cs-blog-content clearfix">
-                                <h4><a href="blog-grid.html">Eget vehicula lectus</a></h4>
-                                <p>by Find.Arc , 1 Hour ago</p> 
-                                <a class="btn btn-default cs-my-btn-white pull-right mt20" href="#">Read More</a>
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 cs-full-wd480">
-                        <div class="cs-blog-col animated fadeInLeftShort slow delay-500">
-                            <div class="cs-blog-img">
-                                <img src="images/blog/2.jpg" alt="images/blog/2.jpg">
-                                <div class="cs-bg-path"></div>
-                                <div class="cs-link-box">
-                                    <a href="images/blog/2.jpg" class="lightbox-image" title="Click Here"><span class="icon icon-Web"></span></a>
-                                </div>
-                            </div>
-                            <div class="cs-blog-content clearfix">
-                                <h4><a href="blog-grid.html">Eget vehicula lectus</a></h4>
-                                <p>by Find.Arc , 1 Hour ago</p> 
-                                <a class="btn btn-default cs-my-btn-white pull-right mt20" href="#">Read More</a>
-                            </div> 
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 cs-full-wd480">
-                        <div class="cs-blog-col animated fadeInLeftShort slow delay-750">
-                            <div class="cs-blog-img">
-                                <img src="images/blog/3.jpg" alt="images/blog/3.jpg">
-                                <div class="cs-bg-path"></div>
-                                <div class="cs-link-box">
-                                    <a href="images/blog/3.jpg" class="lightbox-image" title="Click Here"><span class="icon icon-Cassette"></span></a>
-                                </div>
-                            </div>
-                            <div class="cs-blog-content clearfix">
-                                <h4><a href="blog-grid.html">Eget vehicula lectus</a></h4>
-                                <p>by Find.Arc , 1 Hour ago</p> 
-                                <a class="btn btn-default cs-my-btn-white pull-right mt20" href="#">Read More</a>
-                            </div> 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- blog end -->
+    
 
 
     <!-- clients start-->
