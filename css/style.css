@@ -267,7 +267,7 @@ section {
     z-index: 0;
     left: 0;
     top: 0;
-    background-color: rgba(0, 0, 0, 0.8);
+    
 }
 .cs-overlay-white::before {
     content: " ";
@@ -846,6 +846,22 @@ section {
     -webkit-box-shadow: 6px 7px 11px -8px rgba(198,164,126,1);
     -moz-box-shadow: 6px 7px 11px -8px rgba(198,164,126,1);
     box-shadow: 6px 7px 11px -8px rgba(198,164,126,1);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.cs-my-btn-b {
+    background: #000000;
+    color: #ffffff !important;
+    box-shadow: 1px 0px 4px rgba(198,164,126,75);
+    padding: 12px 20px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
