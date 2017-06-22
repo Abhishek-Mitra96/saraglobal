@@ -70,24 +70,24 @@
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
                                     <li class="current dropdown"><a href="index.php">Home</a>
-                                        <ul>
+                                        <!-- <ul>
                                             <li><a href="index.php">Homepage One</a></li>
                                             <li><a href="index2.php">Homepage Two</a></li>
                                             <li><a href="index3.php">Homepage Three</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="about-1.php">About Us</a>
                                         <ul>
-                                            <li><a href="about-1.php">About Style One</a></li>
-                                            <li><a href="about-2.php">About Style Two</a></li>
+                                            <li><a href="about-1.php">Vision and Mission</a></li>
+                                            <li><a href="about-2.php">About the Founder</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="service-1.php">Service</a>
-                                        <ul>
+                                    <li class="dropdown"><a href="service-1.php">Services</a>
+                                        <!-- <ul>
                                             <li><a href="service-1.php">Services Style One</a></li>
                                             <li><a href="service-2.php">Services Style Two</a></li>
                                             <li><a href="service-details.php">Services Details</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="portfolio.php">Portfolio</a>
                                         <!-- <ul>
@@ -100,21 +100,21 @@
                                             <li><a href="portfolio-details.php">Portfolio Details</a></li>
                                         </ul> -->
                                     </li>
-                                    <li class="dropdown"><a href="blog-grid.php">Blog</a>
-                                        <ul>
+                                    <li class="dropdown"><a href="clients.php">Clients</a>
+                                        <!-- <ul>
                                             <li><a href="blog-grid.php">Blog Grid</a></li>
                                             <li><a href="blog-single.php">Blog Single</a></li>
                                             <li><a href="blog-classic.php">Blog classic</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
-                                    <li class="dropdown"><a href="#">Pages</a>
+                                    <!-- <li class="dropdown"><a href="#">Pages</a>
                                         <ul>
                                             <li><a href="team.php">Our Team</a></li>
                                             <li><a href="team-details.php">Team Details</a></li>
                                             <li><a href="404.php">404</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="#">Contact</a>
+                                    </li> -->
+                                    <li class="dropdown"><a href="#">Contact Us</a>
                                         <ul class="from-right">
                                             <li><a href="contact-1.php">Contact style One</a></li>
                                             <li><a href="contact-2.php">Contact style Two</a></li>
@@ -155,27 +155,27 @@
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
                                     <li class="current dropdown"><a href="index.php">Home</a>
-                                        <ul>
+                                        <!-- <ul>
                                             <li><a href="index.php">Homepage One</a></li>
                                             <li><a href="index2.php">Homepage Two</a></li>
                                             <li><a href="index3.php">Homepage Three</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <li class="dropdown"><a href="about-1.php">About Us</a>
                                         <ul>
-                                            <li><a href="about-1.php">About Style One</a></li>
-                                            <li><a href="about-2.php">About Style Two</a></li>
+                                            <li><a href="about-1.php">Vision and Mission</a></li>
+                                            <li><a href="about-2.php">About The Founder</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="service-1.php">Service</a>
-                                        <ul>
+                                    <li class="dropdown"><a href="service-1.php">Services</a>
+                                        <!-- <ul>
                                             <li><a href="service-1.php">Services Style One</a></li>
                                             <li><a href="service-2.php">Services Style Two</a></li>
                                             <li><a href="service-details.php">Services Details</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
-                                    <li class="dropdown"><a href="portfolio-4.php">Project</a>
-                                        <ul>
+                                    <li class="dropdown"><a href="portfolio.php">Portfolio</a>
+                                        <!-- <ul>
                                             <li><a href="portfolio-3.php">Portfolio 3 Column</a></li>
                                             <li><a href="portfolio-4.php">Portfolio 4 Column</a></li>
                                             <li><a href="portfolio-fullwidth.php">Portfolio  Fullwidth</a></li>
@@ -183,23 +183,23 @@
                                             <li><a href="portfolio-masonry.php">Portfolio Masonry</a></li>
                                             <li><a href="portfolio-popup.php">Portfolio PopUp</a></li>
                                             <li><a href="portfolio-details.php">Portfolio Details</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
-                                    <li class="dropdown"><a href="blog-grid.php">Blog</a>
-                                        <ul>
+                                    <li class="dropdown"><a href="clients.php">Clients</a>
+                                        <!-- <ul>
                                             <li><a href="blog-grid.php">Blog Grid</a></li>
                                             <li><a href="blog-single.php">Blog Single</a></li>
                                             <li><a href="blog-classic.php">Blog classic</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
-                                    <li class="dropdown"><a href="#">Pages</a>
+                                    <!-- <li class="dropdown"><a href="#">Pages</a>
                                         <ul>
                                             <li><a href="team.php">Our Team</a></li>
                                             <li><a href="team-details.php">Team Details</a></li>
                                             <li><a href="404.php">404</a></li>
                                         </ul>
-                                    </li>
-                                    <li class="dropdown"><a href="#">Contact</a>
+                                    </li> -->
+                                    <li class="dropdown"><a href="#">Contact Us</a>
                                         <ul class="from-right">
                                             <li><a href="contact-1.php">Contact style One</a></li>
                                             <li><a href="contact-2.php">Contact style Two</a></li>

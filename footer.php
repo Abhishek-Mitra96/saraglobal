@@ -13,9 +13,9 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="cs-footer-col centered">
                         <h2 style="color: #DEB887;"> QUICK LINKS</h2>
-                        <a href="#">HOME</a><hr style="padding: 5px;
+                        <a href="index.php">HOME</a><hr style="padding: 5px;
     margin: 0px; color:#000000;">
-                        <a href="#">ABOUT US</a><hr style="padding: 5px;
+                        <a href="about-1.php">ABOUT US</a><hr style="padding: 5px;
     margin: 0px; color:#000000;">
                         <a href="#">SERVICES</a><hrstyle="padding: 5px;
     margin: 0px; color:#000000;">
