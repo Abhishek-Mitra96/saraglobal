@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>SARA GLOBAL</title>
-    <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+    <!-- <link rel="shortcut icon" type="image/png" href="images/favicon.png"/> -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed" rel="stylesheet">
@@ -17,6 +17,10 @@
     <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
     <!-- Animation -->
     <link rel="stylesheet" type="text/css" href="css/animations.css">
@@ -121,11 +125,11 @@
                                             <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li> -->
-                                    <li class="dropdown"><a href="contact-1.php">Contact Us</a>
-                                        <!-- <ul class="from-right">
+                                    <li class="dropdown"><a href="#">Contact Us</a>
+                                        <ul class="from-right">
                                             <li><a href="contact-1.php">Contact style One</a></li>
                                             <li><a href="contact-2.php">Contact style Two</a></li>
-                                        </ul> -->
+                                        </ul>
                                     </li>
                                 </ul>
                             </div>
@@ -206,11 +210,11 @@
                                             <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li> -->
-                                    <li class="dropdown"><a href="contact-1.php">Contact Us</a>
-                                        <!-- <ul class="from-right">
+                                    <li class="dropdown"><a href="#">Contact Us</a>
+                                        <ul class="from-right">
                                             <li><a href="contact-1.php">Contact style One</a></li>
                                             <li><a href="contact-2.php">Contact style Two</a></li>
-                                        </ul> -->
+                                        </ul>
                                     </li>
                                 </ul>
                         </div>

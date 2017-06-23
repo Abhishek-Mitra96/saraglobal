@@ -11,7 +11,7 @@
                     <div class="col-sm-12">
                         <div class="cs-page-linkbox animated fadeInLeft slow">
                             <h3>About Us</h3>
-                            <p><a href="index-mp-layout-1.html">Home</a> > <a href="about-1.html">About Us</a></p>
+                            <p><a href="index-mp-layout-1.html">Home</a> / <a href="about-1.html">About Us</a></p>
                         </div>
                     </div>
                 </div>
@@ -27,8 +27,8 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="cs-about-two-col">
-                          <h3 style="border-bottom: 1px solid black;color: #DEB887;">MISSION AND VISION</h3>
-                          <h3>ABOUT FOUNDER</h3>
+                          <a href="about-1.php" style="border-bottom: 1px solid black;color: #DEB887;font-size: 20px;font-weight: bold;">MISSION AND VISION</a><br/>
+                          <a href="about-2.php" >ABOUT FOUNDER</a>
                         </div>
                     </div>
                     <div class="col-md-9">
