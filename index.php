@@ -418,7 +418,7 @@
             <div class="section-wrap">
                 <div class="row">
                     <div class="col-sm-9 cs-res-text-center">
-                        <h2>find. Arc  template is the morden, clean design</h2>
+                        <center><h2>Download Our Brochure To See More blog.</h2></center>
                     </div>
                     <div class="col-sm-3 text-left cs-res-text-center">
                         <a class="btn btn-default cs-my-btn-black" href="#" role="button">Learn More</a>
@@ -433,7 +433,7 @@
     <section class="cs-service-area">
         <div class="section-title">
             <div class="cs-ver-section-title cs-hor-section-title">
-                <h1>service</h1>
+                <!-- <h1>service</h1> -->
                 <h2>what we do</h2>
                 <div class="cs-section-bdr"></div> 
             </div>
@@ -557,7 +557,7 @@
     <!-- testimonial end -->
 
     <!-- blog start-->
-    <section class="cs-blog-area">
+    <!-- <section class="cs-blog-area">
         <div class="section-title">
             <div class="cs-ver-section-title cs-hor-section-title">
                 <h1>our blog</h1>
@@ -621,7 +621,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- blog end -->
 
     
