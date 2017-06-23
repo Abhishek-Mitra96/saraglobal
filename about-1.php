@@ -63,7 +63,7 @@
     
 
     <!-- buy start-->
-    <section class="cs-buy-area cs-overlay-black" style="background-color: #DEB887;">
+    <section class="cs-buy-area" style="background-color: #DEB887;">
         <div class="container">
             <div class="section-wrap">
                 <div class="row">
