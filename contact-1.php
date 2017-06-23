@@ -94,7 +94,7 @@
                 <div class="row">
                     <div class="col-sm-4 col-sm-offset-1">
                         <div class="cs-contact-field pb50">
-                          <h5>keep in touch with us</h5>
+                          <h5>Keep in touch with us</h5>
                           <form>
                             <input type="text" class="form-control cs-contorl" placeholder="Name">
                             <input type="email" class="form-control cs-contorl" id="exampleInputEmail3" placeholder="Email">
