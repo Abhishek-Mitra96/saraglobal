@@ -176,6 +176,6 @@ function GmapInit() {
 function MapLoadScript() {
 	var script = document.createElement('script');
 	script.type = 'text/javascript';
-	script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&' + 'callback=GmapInit';
+	script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyC_0eCCKyjl8aRFce-kXMXO915KnAcDTfc';
 	document.body.appendChild(script);
 }

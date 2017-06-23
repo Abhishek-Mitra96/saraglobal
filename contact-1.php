@@ -77,13 +77,22 @@
     </section>
     <!-- contact-one end -->
 
+    <div class="container-fluid">
+    	<div class="row">
+    		<div class="col-md-12">
+    			<hr style="margin: 2px -20px 20px;border-top: 1px solid #000000;">
+    		</div>
+    	</div>
+    </div>
+    <br/>
+
 
     <!-- map start-->
     <section class="cs-map-area cs-contact-two">
         <div class="container-fluid">
             <div class="section-wrap">
                 <div class="row">
-                    <div class="col-sm-5 col-sm-offset-1">
+                    <div class="col-sm-4 col-sm-offset-1">
                         <div class="cs-contact-field pb50">
                           <h5>keep in touch with us</h5>
                           <form>
@@ -95,23 +104,22 @@
                           </form>
                         </div>
                     </div>
-                    <div class="col-sm-6 prn">
-                        <section class="map-section">
-                          <!--Map Container-->
-                          <div class="map-outer">
-                              <!--Map Canvas-->
-                              <div class="map-contact"
-                                  data-zoom="12"
-                                  data-lat="-37.817085"
-                                  data-lng="144.955631"       
-                                  data-type="roadmap"
-                                  data-hue="#ffc400"
-                                  data-title="Envato"
-                                  data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>"              
-                                  style="height: 400px;">
-                              </div>
-                          </div>
-                        </section>
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-6">
+
+                        <div id="map" style="width:100%;height:420px;"></div>
+
+							<script>
+							function myMap() {
+							  var mapCanvas = document.getElementById("map");
+							  var mapOptions = {
+							    center: new google.maps.LatLng(51.5, -0.2), zoom: 10
+							  };
+							  var map = new google.maps.Map(mapCanvas, mapOptions);
+							}
+							</script>
+
+							<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_0eCCKyjl8aRFce-kXMXO915KnAcDTfc&callback=myMap"></script>
                     </div>
                 </div>
             </div>
@@ -119,6 +127,49 @@
     </section>
     <!-- map end -->
     
+
+    <!-- clients start-->
+    <section class="cs-clients-area">
+        <div class="container">
+            <div class="section-wrap">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="clients-carousel">
+                            <div class="item">
+                                <img src="images/clients/1.png" alt="images/clients/1.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/2.png" alt="images/clients/2.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/3.png" alt="images/clients/3.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/4.png" alt="images/clients/4.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/1.png" alt="images/clients/1.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/2.png" alt="images/clients/2.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/3.png" alt="images/clients/3.png">
+                            </div>
+                            <div class="item">
+                                <img src="images/clients/4.png" alt="images/clients/4.png">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- clients end -->
+
+
+
+
 
     <?php
         require_once 'footer.php';
@@ -138,9 +189,12 @@
     <script src="js/imagesloaded.js"></script>
     <script src="js/owl.js"></script>
     <script src="js/css3-animate-it.js"></script>
-    <script src="js/map-script.js"></script>
+    <!-- <script src="js/map-script.js"></script> -->
     <script src="js/validate.js"></script>
     <script src="js/custom.js"></script>
+
+    
+
 
 
 </body>
