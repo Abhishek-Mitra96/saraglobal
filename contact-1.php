@@ -11,7 +11,7 @@
                     <div class="col-sm-12">
                         <div class="cs-page-linkbox animated fadeInLeft slow">
                             <h3>contact</h3>
-                            <p><a href="index-mp-layout-1.html">Home</a> / <a href="contact-1.html">contact</a></p>
+                            <p><a href="index-mp-layout-1.html">Home</a> > <a href="contact-1.html">contact</a></p>
                         </div>
                     </div>
                 </div>
