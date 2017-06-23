@@ -9,7 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>SARA GLOBAL</title>
     <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
-
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Athiti" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
 
     <!-- Animation -->
     <link rel="stylesheet" type="text/css" href="css/animations.css">
