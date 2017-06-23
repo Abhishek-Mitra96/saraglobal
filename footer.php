@@ -25,7 +25,7 @@
                         <a href="about-1.php">ABOUT US</a><hr class="quick_links_hr">
                         <a href="service-1.php">SERVICES</a><hr class="quick_links_hr">
                         <a href="portfolio.php">PORTFOLIO</a><hr class="quick_links_hr">
-                            <a href="clients.php">CLIENTS</a><hr class="quick_links_hr">
+                        <a href="clients.php">CLIENTS</a><hr class="quick_links_hr">
                         <a href="contact-1.php">CONTACT US</a><hr class="quick_links_hr">
                     </div>
                 </div>

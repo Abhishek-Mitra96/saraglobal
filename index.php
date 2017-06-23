@@ -418,7 +418,7 @@
             <div class="section-wrap">
                 <div class="row">
                     <div class="col-sm-9 cs-res-text-center">
-                        <center><h2>Download Our Brochure To See Moreblogblog.</h2></center>
+                        <center><h2>Download Our Brochure To See More blog.</h2></center>
                     </div>
                     <div class="col-sm-3 text-left cs-res-text-center">
                         <a class="btn btn-default cs-my-btn-black" href="#" role="button">Learn More</a>
