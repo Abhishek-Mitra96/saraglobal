@@ -114,11 +114,11 @@
                                             <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li> -->
-                                    <li class="dropdown"><a href="#">Contact Us</a>
-                                        <ul class="from-right">
+                                    <li class="dropdown"><a href="contact-1.php">Contact Us</a>
+                                        <!-- <ul class="from-right">
                                             <li><a href="contact-1.php">Contact style One</a></li>
                                             <li><a href="contact-2.php">Contact style Two</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                 </ul>
                             </div>
@@ -199,11 +199,11 @@
                                             <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li> -->
-                                    <li class="dropdown"><a href="#">Contact Us</a>
-                                        <ul class="from-right">
+                                    <li class="dropdown"><a href="contact-1.php">Contact Us</a>
+                                        <!-- <ul class="from-right">
                                             <li><a href="contact-1.php">Contact style One</a></li>
                                             <li><a href="contact-2.php">Contact style Two</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                 </ul>
                         </div>
