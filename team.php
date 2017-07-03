@@ -2,7 +2,6 @@
     require_once 'header.php';
 ?>
 
-
     <!-- page-heading start-->
     <section class="cs-page-heading-area" style="background-image: url(images/bg/6.jpg);">
         <div class="container">
