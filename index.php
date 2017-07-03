@@ -171,8 +171,8 @@
     <section class="cs-about-area">
         <div class="section-title">
           <div class="cs-ver-section-title cs-out-1300">
-                <h1>about</h1>
-                <h2>who we are</h2>
+                <h1>About</h1>
+                <h2>Who we are</h2>
                 <div class="cs-section-bdr"></div> 
             </div>  
         </div>
@@ -182,9 +182,9 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="cs-about-box">
                             <img src="images/others/icon-1.png" alt="">
-                            <h2>welcome to <span>FIND. ACTh</span></h2>
-                            <p>Tincidunt suscipit neque, in ultrices nunc iaculis et. Cras faucibus sed sem et sodales. Suspendisse eu accumsan dolor. Nunc tempor purus ut porttitor sagittis. Nunc neque diam, cursus sed dignissim in, iaculis at odio. Cras mattis, mi ut sodales tincidunt, augue lorem feugiat erat, id accumsan</p>
-                            <a href="#">View More <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span> </a>
+                            <h2>Welcome to <span>Sara Global</span></h2>
+                            <p>SARA Global was formed in 2012 as a complete interior design service provider in Hong Kong offering a one stop shop of workable and compelling design, space planning, building & maintenance. These tailor made services are specially curated to meet client’s requirements. Leveraging over 18 years of industry experience, we ensure best practices on all projects and pride ourselves for being both flexible & responsive to client needs.</p>
+                            <a href="about-3.php">View More <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span> </a>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12">
@@ -434,7 +434,7 @@
         <div class="section-title">
             <div class="cs-ver-section-title cs-hor-section-title">
                 <!-- <h1>service</h1> -->
-                <h2>what we do</h2>
+                <h2>What we do</h2>
                 <div class="cs-section-bdr"></div> 
             </div>
         </div>
@@ -449,7 +449,7 @@
                                 </div>
                             </div> 
                             <h3>Architecture</h3>
-                            <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
+                            <p>Consult & plan from a technical, social and aesthetic design perspective across a range of spaces.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 col-xs-4 cs-full-wd480">
@@ -459,8 +459,8 @@
                                     <img src="images/icon/2.png" alt="images/icon/2.png">
                                 </div>
                             </div>
-                            <h3>development</h3>
-                            <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
+                            <h3>Interior Design</h3>
+                            <p>Recommend and execute creative and technical solutions for interior frameworks.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 col-xs-4 cs-full-wd480">
@@ -470,8 +470,8 @@
                                     <img src="images/icon/3.png" alt="images/icon/3.png">
                                 </div>
                             </div>
-                            <h3>interior design</h3>
-                            <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
+                            <h3>Project Management</h3>
+                            <p>Project planning that includes measuring the complete timeline, resource and budget management.</p>
                         </div>
                     </div>
                 </div>

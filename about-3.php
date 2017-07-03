@@ -27,9 +27,10 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="cs-about-two-col">
-                          <a href="about-3.php">ABOUT SARA GLOBAL</a><BR>
-                          <a href="about-1.php">MISSION AND VISION</a><br>
-                          <a href="about-2.php" style="border-bottom: 1px solid black;color: #DEB887;font-size: 20px;font-weight: bold;">ABOUT FOUNDER</a>
+                          <a href="about-3.php" style="border-bottom: 1px solid black;color: #DEB887;font-size: 20px;font-weight: bold;">ABOUT SARA GLOBAL</a><br/>
+
+                          <a href="about-1.php">MISSION AND VISION</a><BR>
+                          <a href="about-2.php">ABOUT FOUNDER</a>
                         </div>
                     </div>
                     <div class="col-md-9">
@@ -40,16 +41,14 @@
                                     <div class="tab-content">
                                         <!-- tab one -->
                                         <div role="tabpanel" class="tab-pane fade in active" id="home">
-                                            <h3 style="font-weight: bold;text-decoration: underline;color: #DEB887">Sonal Bhandari – Founder & Creative Director</h3><br/>
-                                            <p style="font-weight: bold;text-align: justify;">SARA Global is promoted by Sonal Bhandari who has overall two decades of experience in Interior Design & project execution in India and has been in HK since 2010. Being associated with Designers Guild, Kolkata since 1999, she catered to esteemed corporate clients like Bengal Ambuja, Reliance Industries, Glaxo Smithkline, Modi Telstra, HDFC Bank amongst others. She embarked on an entrepreneurial journey in 2003 with Abstract Design catering to high end residential projects in Kolkata. SARA Global is an extension of her entrepreneurial journey in Hong Kong.</p>
-                                        </div>
-                                        <!-- tab three -->
-                                        <div role="tabpanel" class="tab-pane fade" id="messages">
-                                            <h2>Eget facilisis lacus, <span>non mattis augue</span> </h2>
-                                            <h6>Curabitur vulputate ligula non vulputate porttitor. Maecenas et pellentesque neque, ut semper magna.</h6>
-                                            <p>Sed eget tellus elit. Aenean quis mollis nulla. Nunc risus orci, fringilla eget urna eget, dignissim ultrices mi. Morbi sodales vehicula felis sed maximus. Curabitur nec nibh quam. Sed rutrum arcu tortor, quis volutpat nibh interdum in. Donec quis lorem dui. Nunc eleifend urna maximus, sagittis sapien non, rutrum velit.</p>
-                                            <a class="btn btn-default cs-my-btn-brown" type="submit">learn more</a>
-                                        </div>
+                                            <h3 style="font-weight: bold;color: #DEB887;text-decoration: underline;">ABOUT SARA GLOBAL</h3>
+                                            <p style="font-weight: bold; text-align: justify;">
+                                                SARA Global was formed in 2012 as a complete interior design service provider in Hong Kong offering a one stop shop of workable and compelling design, space planning, building & maintenance. These tailor made services are specially curated to meet client’s requirements. Leveraging over 18 years of industry experience, we ensure best practices on all projects and pride ourselves for being both flexible & responsive to client needs.<br><br>
+                                                We stand by our commitment to premium quality, precision, efficiency and highest service standards. Leading clients through every step of design & building process, we strive to deliver the best possible outcome in every project we undertake. <br><br>
+                                                Associated with seasoned local contractors in this field, our design team takes active interest in controlling the quality of craftsmanship and achieving tight schedules and creating a niche value proposition for the clients.<br><br>
+                                                A fully integrated workshop outsourced in Shenzhen, China with 24x7 skilled labour force ensures timelines assured to clients are met.
+
+                                            </p>
                                     </div>
                                 </div>
                             </div>

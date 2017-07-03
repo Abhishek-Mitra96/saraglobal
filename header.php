@@ -89,6 +89,7 @@
                                     </li>
                                     <li class="dropdown"><a href="about-1.php">About Us</a>
                                         <ul>
+                                            <li><a href="about-3.php">About Sara Global</a></li>
                                             <li><a href="about-1.php">Vision and Mission</a></li>
                                             <li><a href="about-2.php">About the Founder</a></li>
                                         </ul>
@@ -125,11 +126,7 @@
                                             <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li> -->
-                                    <li class="dropdown"><a href="#">Contact Us</a>
-                                        <ul class="from-right">
-                                            <li><a href="contact-1.php">Contact style One</a></li>
-                                            <li><a href="contact-2.php">Contact style Two</a></li>
-                                        </ul>
+                                    <li class="dropdown"><a href="contact-1.php">Contact Us</a>
                                     </li>
                                 </ul>
                             </div>
@@ -174,6 +171,7 @@
                                     </li>
                                     <li class="dropdown"><a href="about-1.php">About Us</a>
                                         <ul>
+                                            <li><a href="about-3.php">About Sara Global</a></li>
                                             <li><a href="about-1.php">Vision and Mission</a></li>
                                             <li><a href="about-2.php">About The Founder</a></li>
                                         </ul>
@@ -210,11 +208,7 @@
                                             <li><a href="404.php">404</a></li>
                                         </ul>
                                     </li> -->
-                                    <li class="dropdown"><a href="#">Contact Us</a>
-                                        <ul class="from-right">
-                                            <li><a href="contact-1.php">Contact style One</a></li>
-                                            <li><a href="contact-2.php">Contact style Two</a></li>
-                                        </ul>
+                                    <li class="dropdown"><a href="contact-1.php">Contact Us</a>
                                     </li>
                                 </ul>
                         </div>

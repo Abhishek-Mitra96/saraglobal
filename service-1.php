@@ -24,9 +24,8 @@
     <section class="cs-service-area cs-service-two">
         <div class="section-title">
             <div class="cs-ver-section-title cs-hor-section-title">
-                <h1>service</h1>
-                <h2>what we do</h2>
-                <div class="cs-section-bdr"></div> 
+                <h1>Service</h1>
+                <h2>What we do</h2>
             </div>
         </div>
         <div class="container">
@@ -40,7 +39,7 @@
                                 </div>
                             </div> 
                             <h3>Architecture</h3>
-                            <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
+                            <p>Consult & plan from a technical, social and aesthetic design perspective across a range of spaces.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 col-xs-4 cs-full-wd480">
@@ -50,8 +49,8 @@
                                     <img src="images/icon/2.png" alt="images/icon/2.png">
                                 </div>
                             </div>
-                            <h3>development</h3>
-                            <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
+                            <h3>Interior Design</h3>
+                            <p>Recommend and execute creative and technical solutions for interior frameworks.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 col-xs-4 cs-full-wd480">
@@ -61,8 +60,8 @@
                                     <img src="images/icon/3.png" alt="images/icon/3.png">
                                 </div>
                             </div>
-                            <h3>interior design</h3>
-                            <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
+                            <h3>Project Management</h3>
+                            <p>Project planning that includes measuring the complete timeline, resource and budget management.</p>
                         </div>
                     </div>
                 </div>
@@ -74,11 +73,11 @@
                                     <img src="images/icon/1.png" alt="images/icon/1.png">
                                 </div>
                             </div> 
-                            <h3>concept</h3>
-                            <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
+                            <h3>Interior Contracting</h3>
+                            <p>Oversee the demolition, construction & renovation of the interiors as per client’s needs.</p>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-xs-4 cs-full-wd480">
+                    <!-- <div class="col-sm-4 col-xs-4 cs-full-wd480">
                         <div class="cs-service-col mt30">
                             <div class="animated flipInX slow delay-500">
                                 <div class="hexagon">
@@ -99,12 +98,102 @@
                             <h3>product design</h3>
                             <p>Duis ac massa rutrum, tincidunt sapien ut, consequat nisl. Fusce dictum vehicula fringilla. In cursus auctor enim</p>
                         </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- service end -->
+
+
+
+
+    <!-- service start-->
+    <section class="cs-service-area cs-service-two">
+        <div class="section-title">
+            <div class="cs-ver-section-title cs-hor-section-title">
+                <h1>Service</h1>
+                <h2>Our Design Process</h2> 
+            </div>
+        </div>
+        <div class="container">
+            <div class="section-wrap">
+                <div class="row animatedParent animateOnce">
+                    <div class="col-sm-4 col-xs-4 cs-full-wd480">
+                        <div class="cs-service-col ">
+                            <div class="animated flipInX slow delay-250">
+                                <div class="hexagon">
+                                    <img src="images/icon/1.png" alt="images/icon/1.png">
+                                </div>
+                            </div> 
+                            <h3>Research</h3>
+                            <p>Listen, absorb, rethink – we study the unique elements, environment and story of your project to build solid foundations for a distinctive design.</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-4 cs-full-wd480">
+                        <div class="cs-service-col">
+                            <div class="animated flipInX slow delay-500">
+                                <div class="hexagon">
+                                    <img src="images/icon/2.png" alt="images/icon/2.png">
+                                </div>
+                            </div>
+                            <h3>Concept Planning</h3>
+                            <p>Spatial analysis and creative thinking with our clients ensures efficient and effective use of space to create the desired image and atmosphere. </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-4 cs-full-wd480">
+                        <div class="cs-service-col">
+                            <div class="animated flipInX slow delay-750">
+                                <div class="hexagon">
+                                    <img src="images/icon/3.png" alt="images/icon/3.png">
+                                </div>
+                            </div>
+                            <h3>Design DNA</h3>
+                            <p>Formation of a bespoke creative concept and architectural narrative to enhance your lifestyle or brand image.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row animatedParent animateOnce">
+                    <div class="col-sm-4 col-xs-4 cs-full-wd480">
+                        <div class="cs-service-col mt30">
+                            <div class="animated flipInX slow delay-250">
+                                <div class="hexagon">
+                                    <img src="images/icon/1.png" alt="images/icon/1.png">
+                                </div>
+                            </div> 
+                            <h3>Schematic Design</h3>
+                            <p>Visualization of space, materials & color schemes. </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-4 cs-full-wd480">
+                        <div class="cs-service-col mt30">
+                            <div class="animated flipInX slow delay-500">
+                                <div class="hexagon">
+                                    <img src="images/icon/2.png" alt="images/icon/2.png">
+                                </div>
+                            </div>
+                            <h3>Design Development</h3>
+                            <p>Focusing on the minute details, we cement the architecture, interior and light design to add depth of personality from the inside out. </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-4 cs-full-wd480">
+                        <div class="cs-service-col mt30">
+                            <div class="animated flipInX slow delay-750">
+                                <div class="hexagon">
+                                    <img src="images/icon/3.png" alt="images/icon/3.png">
+                                </div>
+                            </div>
+                            <h3>Documentation</h3>
+                            <p>Production of detailed drawings, specifications of furniture, fixtures & material samples.</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- service end -->
+
+
 
 
     <!--project Style One-->

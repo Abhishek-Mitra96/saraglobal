@@ -34,7 +34,11 @@
                                 </div>
                             </div>
                             <h3>Meet Us</h3>
-                            <p>Architecture Downtown St, Melbourne Australia</p>
+                            <p>Unit of: SARA Global HK Limited
+                            Room 201, 2/F, Lee Wai Commercial Building
+                            1 – 3, Hart Avenue, Tsim Sha Tsui,
+                            Kowloon, Hong Kong
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-6 cs-full-wd480">
@@ -44,8 +48,8 @@
                                     <span class="icon icon-Phone2"></span>
                                 </div>
                             </div>
-                            <h3>phone</h3>
-                            <p>(+1) 1245 - 15487- 258<br> (+1) 1245 - 15487- 258</p>
+                            <h3>Phone</h3>
+                            <p>+852 67996839</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-6 cs-full-wd480">
@@ -55,9 +59,8 @@
                                     <span class="icon icon-Message"></span>
                                 </div>
                             </div>
-                            <h3>email</h3>
-                            <a href="#">indo@yormail.com</a>
-                            <a href="#">yourmail@gmail.com</a>
+                            <h3>Email</h3>
+                            <a href="#">info@saraglobal.com.hk</a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-6 cs-full-wd480">
@@ -67,8 +70,8 @@
                                     <span class="icon icon-WorldWide"></span>
                                 </div>
                             </div>
-                            <h3>website</h3>
-                            <a href="#">http://www.yourwebsite.com</a>
+                            <h3>Website</h3>
+                            <a href="#">www.saraglobal.com</a>
                         </div>
                     </div>
                 </div>

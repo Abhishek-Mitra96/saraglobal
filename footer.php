@@ -46,9 +46,9 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                     <div class="cs-footer-col">
                         <h2 style="color: #DEB887;" class="font5"> SARA GLOBAL</h2>
-                            <p class="font1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud cillum dolore eu fugiat nulla pariatur. </p><br/>
+                            <p class="font1" style="text-align: justify;">SARA Global was formed in 2012 as a complete interior design service provider in Hong Kong offering a one stop shop of workable and compelling design, space planning, building & maintenance.</p><br/>
 
-                        <p class="font1">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p class="font1" style="text-align: justify;">These tailor made services are specially curated to meet client’s requirements. Leveraging over 18 years of industry experience, we ensure best practices on all projects and pride ourselves for being both flexible & responsive to client needs.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4">
@@ -68,19 +68,22 @@
                     <div class="cs-footer-col">
                         <h2 style="color: #DEB887;" class="font4">Contact Us</h2>
                         <div class="font2">
-                            <p class="font2">22, Lorem Ipsum, Kagiso <br/>
-                            Renada, Hong Kong <br/>
-                            002233<hr style="padding: 5px;
+                            <p class="font2">
+                            Unit of: SARA Global HK Limited<br/>
+                            Room 201, 2/F, Lee Wai Commercial Building <br/>
+                            1 – 3, Hart Avenue, Tsim Sha Tsui, <br/>
+                            Kowloon, Hong Kong <br/>
+                           <hr style="padding: 5px;
         margin: 0px; color:#000000;">
 
                             <p style="font-weight: bold;font-size: 15px;color: #DEB887;">Phone<br/>
-                            <p class="font2">+00 35648 59874</p>    
+                            <p class="font2">+852 67996839</p>    
                             </p>
                             <hr style="padding: 5px;
         margin: 0px; color:#000000;">
 
                             <p style="font-weight: bold;font-size: 15px;color: #DEB887;">Email<br/>
-                            <p class="font2">info@saraglobal.com</p>    
+                            <p class="font2">info@saraglobal.com.hk</p>    
                             </p>
                             <hr style="padding: 5px;
         margin: 0px; color:#000000;">

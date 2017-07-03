@@ -27,6 +27,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="cs-about-two-col">
+                          <a href="about-3.php">ABOUT SARA GLOBAL</a><BR>
                           <a href="about-1.php" style="border-bottom: 1px solid black;color: #DEB887;font-size: 20px;font-weight: bold;">MISSION AND VISION</a><br/>
                           <a href="about-2.php">ABOUT FOUNDER</a>
                         </div>
@@ -39,8 +40,24 @@
                                     <div class="tab-content">
                                         <!-- tab one -->
                                         <div role="tabpanel" class="tab-pane fade in active" id="home">
-                                            <p style="font-weight: bold;">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.</p>
-                                            <p style="font-weight: bold;">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</p>
+                                            <h3 style="font-weight: bold;color: #DEB887;text-decoration: underline;">MISSION</h3>
+                                            <p style="font-weight: bold; text-align: justify;">Our mission is to provide outright commitment and passion to the entirety of every project. This passion to deliver a client’s vision with INTEGRITY, ACCURACY, EFFICIENCY and PROFESSIONALISM is the core of our business. We aim to develop & maintain long standing client relationship and look forward to cater to their needs at every given opportunity.</p>
+
+                                            <h3 style="font-weight: bold;text-decoration: underline;color: #DEB887">PHILOSOPHY</h3>
+                                            <p style="font-weight: bold; text-align: justify;">We look beyond innovation and modern design methods, and balance requirements with realities. Striving to provide projects within budget and on time, we use viable designs, accurate scheduling and quality workmanship that is tailored to client’s individual and unique vision.
+                                            We aim to serve as a conduit to the client’s stated desires & unsaid needs and translate them into the most user centric design in every project.
+                                            </p>
+
+                                            <h3 style="font-weight: bold;text-decoration: underline;color: #DEB887">PROTECT OUR ENVIRONMENT</h3>
+                                            <p style="font-weight: bold; text-align: justify;">In this modern world, with so much emphasis on global climate change, if we want to reduce our ecological footprint, we need to reduce consumption of natural resources and judiciously use the decoration materials. <br><br>
+
+                                            We are committed to ensuring that our business activities and staff are as environmentally and socially responsible as possible. For example, painting, wood, glass, metal, textiles and furniture, each of which can have negative effects if we do not know what to look for. With a little effort and vision, we can offer an alternative to being environmentally friendly. <br><br>
+
+                                            Our sourcing team makes every effort to deal with companies that are environmentally and socially responsible when sourcing product. Each supplier’s environmental policy must meet our standards before being approved as a supplier - this includes ensuring that the supplier internally implements policy regarding the improvement of their operations and production methods with regards to their environmental impact. <br><br>
+
+                                            Let's save & protect our natural environment together.
+
+                                            </p>
                                         </div>
                                         <!-- tab three -->
                                         <div role="tabpanel" class="tab-pane fade" id="messages">
