@@ -28,7 +28,7 @@
                     <div class="col-md-3">
                         <div class="cs-about-two-col">
                           <a href="about-1.php" style="border-bottom: 1px solid black;color: #DEB887;font-size: 20px;font-weight: bold;">MISSION AND VISION</a><br/>
-                          <a href="about-2.php" >ABOUT FOUNDER</a>
+                          <a href="about-2.php">ABOUT FOUNDER</a>
                         </div>
                     </div>
                     <div class="col-md-9">
